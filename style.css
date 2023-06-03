@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica&display=swap');
+
+* { margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    background-color: #000000;
+    font-family: 'Geologica', sans-serif;
+}
+
+
+video{
+    padding: 20px;
+    margin-left: 250px;
+    width: 800px;
+    border-radius: 50px;
+}
+
+h1{
+    text-align: center;
+    padding: 15px;
+    color: #fff;
+}
+
